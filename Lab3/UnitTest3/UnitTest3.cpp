@@ -7,9 +7,9 @@
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
-namespace UnitTestLab3
+namespace UnitTest3
 {
-	TEST_CLASS(UnitTestLab3)
+	TEST_CLASS(UnitTest3)
 	{
 	public:
 
